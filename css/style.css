@@ -28,3 +28,10 @@ header{
 .lista{
     text-align: left;
 }
+.intestazione{
+    background-color: #20a9e5;
+    color: white;
+}
+.riga-blu{
+    background-color: #b1e5f2;
+}
