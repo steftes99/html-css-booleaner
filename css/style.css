@@ -1,0 +1,15 @@
+header{
+    background-color: #64a5e8;
+    height: 200px;
+    text-align: left;
+    
+    
+}
+.pattern{
+    background-image: url(../img/pattern.png);
+    height: 200px;
+    
+}
+.logo{
+    width: 20%;
+}
