@@ -22,3 +22,9 @@ header{
 .info{
     font-size: 15px;
 }
+.evidenziato{
+    background-color: yellow;
+}
+.lista{
+    text-align: left;
+}
